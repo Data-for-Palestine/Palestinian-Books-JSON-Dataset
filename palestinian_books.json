@@ -1,0 +1,1185 @@
+{
+  "editions": [],
+  "works": [
+    {
+      "subjects": [
+        "Arab-Israeli conflict",
+        "Palestinian Arab Refugees",
+        "Palestinian Arabs",
+        "Arab Refugees",
+        "Guerilla",
+        "Conditions sociales",
+        "Réfugiés arabes",
+        "Relations judéo-arabes",
+        "Réfugiés palestiniens",
+        "Palästinenser",
+        "Palestiniens"
+      ],
+      "key": "/works/OL3947315W",
+      "title": "The Palestinians from peasants to revolutionaries",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL719877A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        5341229,
+        5341230
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": ">Rosemary Sayigh's The Palestinians is a classic of radical history.\r\n>\r\n>Through extensive interviews with Palestinians in refugee camps, she provides a deeply-moving, grassroots story of how the Palestinians came to be who they are today. In their own voices, Palestinians tell stories of the Nabka and their flight from their homeland. Sayigh's powerful account of Palestinians' economic marginalisation the social and psychological effects of being uprooted and the political oppression which they have faced continues to resonate today.\r\n\r\n- [publisher](https://www.bloomsbury.com/us/palestinians-9781848132573/)"
+      },
+      "subject_places": [
+        "Palestine"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T04:55:34.070808"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-14T10:40:42.159386"
+      }
+    },
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "\"In this groundbreaking book, published on the fiftieth anniversary of the Occupation, the outspoken and radical Israeli historian Ilan Pappé examines the most contested ideas concerning the origins and identity of the contemporary state of Israel. The \"ten myths\" that Pappé explores--repeated endlessly in the media, enforced by the military, accepted without question by the world's governments--reinforce the regional status quo. He explores the claim that Palestine was an empty land at the time of the Balfour Declaration, as well as the formation of Zionism and its role in the early decades of nation building. He asks whether the Palestinians voluntarily left their homeland in 1948, and whether June 1967 was a war of \"no choice.\" Turning to the myths surrounding the failures of the Camp David Accords and the official reasons for the attacks on Gaza, Pappé explains why the two-state solution is no longer viable.\"--Publisher's description."
+      },
+      "key": "/works/OL20054379W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL690129A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL7989898A"
+          }
+        }
+      ],
+      "title": "Ten myths about Israel",
+      "subject_places": [
+        "Palestine",
+        "Israel"
+      ],
+      "subjects": [
+        "Politics and government",
+        "Palestinian Arabs",
+        "Arab-Israeli conflict",
+        "History",
+        "Palestinian arabs",
+        "Arab-israeli conflict",
+        "Palestine, history",
+        "Israel, politics and government",
+        "Israele",
+        "Palestina",
+        "Colonialismo",
+        "Apartheid"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        11174269,
+        14298432,
+        14298433,
+        14298434,
+        14298435,
+        12248753
+      ],
+      "links": [
+        {
+          "title": "La recensione di Michele Giorgio su «Pagine esteri»",
+          "url": "https://pagineesteri.it/2022/05/26/cultura/libri-ilan-pappe-10-miti-su-israele/",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T22:52:39.773703"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T04:14:20.316601"
+      }
+    },
+    {
+      "subjects": [
+        "Israel-Arab War, 1948-1949",
+        "Forced migration",
+        "Arab-Israeli conflict",
+        "Emigration and immigration",
+        "Palestinian Arab Refugees",
+        "Guerre israélo-arabe, 1948-1949",
+        "Conflit israélo-arabe",
+        "HISTORY",
+        "General",
+        "Israel-Arab War (1948-1949) fast (OCoLC)fst00980263",
+        "Genocide",
+        "Ethnic cleansing",
+        "Israel",
+        "Mass exoduses",
+        "Palestinians"
+      ],
+      "key": "/works/OL8324629W",
+      "title": "The Ethnic Cleansing of Palestine",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL690129A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL7938730A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        899119,
+        8107492,
+        11112456,
+        14155796,
+        14155797
+      ],
+      "subject_places": [
+        "Palestine",
+        "Middle East",
+        "Israel"
+      ],
+      "subject_times": [
+        "20th century"
+      ],
+      "latest_revision": 17,
+      "revision": 17,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T22:38:44.899785"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T04:07:06.015382"
+      }
+    },
+    {
+      "subtitle": "International Law and the Origins of the Arab-Isra",
+      "covers": [
+        6298358,
+        8557709
+      ],
+      "key": "/works/OL14980982W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL6464057A"
+          }
+        }
+      ],
+      "title": "From Coexistence to Conquest",
+      "subjects": [
+        "Arab-israeli conflict",
+        "International status",
+        "Arab-Israeli conflict",
+        "Jewish-Arab relations",
+        "History",
+        "Occupancy (International law)"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-16T05:39:43.716529"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-20T21:33:30.615505"
+      }
+    },
+    {
+      "title": "The question of Palestine",
+      "covers": [
+        420412,
+        11076991
+      ],
+      "subject_places": [
+        "Palästina"
+      ],
+      "first_publish_date": "1979",
+      "key": "/works/OL27396W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL26322A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Palestinian Arabs",
+        "Jewish-Arab relations",
+        "Nahostkonflikt",
+        "Palestiniens",
+        "PALESTINE QUESTION",
+        "Relations judéo-arabes",
+        "Conflit israélo-arabe",
+        "Conflito",
+        "Sionismo",
+        "Jewish-arab relations",
+        "Palestinian arabs"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-18T09:02:37.609341"
+      }
+    },
+    {
+      "title": "The question of Palestine",
+      "covers": [
+        420412,
+        11076991
+      ],
+      "subject_places": [
+        "Palästina"
+      ],
+      "first_publish_date": "1979",
+      "key": "/works/OL27396W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL26322A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Palestinian Arabs",
+        "Jewish-Arab relations",
+        "Nahostkonflikt",
+        "Palestiniens",
+        "PALESTINE QUESTION",
+        "Relations judéo-arabes",
+        "Conflit israélo-arabe",
+        "Conflito",
+        "Sionismo",
+        "Jewish-arab relations",
+        "Palestinian arabs"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-18T09:02:37.609341"
+      }
+    },
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "In 1948, at the age of nine, the author, a Palestinian Arab, was relocated with her family from Jerusalem to a largely Jewish neighborhood in London, England."
+      },
+      "title": "In search of Fatima",
+      "covers": [
+        6800998,
+        913975
+      ],
+      "subject_places": [
+        "Palestine",
+        "Jerusalem",
+        "Gro britannien"
+      ],
+      "subjects": [
+        "Physicians",
+        "Palästinenserin",
+        "Palestinian Arab Women",
+        "Personal narratives",
+        "Israel-Arab War, 1948-1949",
+        "Biography",
+        "Palestinian Arab Personal narratives",
+        "Physicians, biography",
+        "Israel-arab war, 1948-1949",
+        "Palestinian arabs",
+        "Women, arab",
+        "Palestinian Personal narratives"
+      ],
+      "subject_people": [
+        "Ghada Karmi"
+      ],
+      "key": "/works/OL15837257W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2735769A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2011-07-08T07:52:34.821173"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-15T14:38:57.634451"
+      }
+    },
+    {
+      "links": [
+        {
+          "url": "http://capitanswing.com/prensa/conferencia-de-angela-davis-en-barcelona/",
+          "title": "Conferencia de Angela Davis en Barcelona (Capitán Swing)",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "url": "https://www.diagonalperiodico.net/libertades/31326-raza-genero-y-clase-son-elementos-entrelazados.html",
+          "title": "Angela Davis: “Raza, género y clase son elementos entrelazados” (Diagonal)",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "title": "Freedom Is a Constant Struggle",
+      "covers": [
+        8076041,
+        8536754,
+        10091110,
+        10352183,
+        12107896,
+        13517380,
+        13760598
+      ],
+      "subject_places": [
+        "Ferguson",
+        "Palestine",
+        "South Africa"
+      ],
+      "subjects": [
+        "Social movements",
+        "Freedom",
+        "Civil rights",
+        "Human rights",
+        "State terrorism",
+        "Apartheid",
+        "Anti-racism",
+        "Oppression (Psychology)",
+        "Social problems",
+        "Liberty",
+        "Violence",
+        "Political persecution",
+        "Liberté",
+        "Problèmes sociaux",
+        "Oppression",
+        "Social issues",
+        "POLITICAL SCIENCE",
+        "Globalization",
+        "World",
+        "Middle Eastern",
+        "SOCIAL SCIENCE",
+        "Black Studies (Global)",
+        "Politics and Government",
+        "Social justice",
+        "Justice sociale",
+        "Mouvements sociaux",
+        "Political Freedom & Security"
+      ],
+      "key": "/works/OL17794034W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL396182A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL7082789A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL3481758A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "En este amplio y brillante conjunto de ensayos, la reconocida y erudita activista Angela Davis expone las conexiones entre las luchas contra la violencia estatal y la opresión a lo largo de la historia y en todo el mundo, nos lleva de vuelta a la historia de los fundadores de la lucha revolucionaria y antirracista, pero también nos lleva hacia la posibilidad de la solidaridad y lucha interseccionales. Davis reúne en sus siempre lúcidas palabras nuestra historia y el futuro más prometedor de la libertad, haciendo hincapié en el papel que el pueblo puede y debe jugar. Teniendo en cuenta lo ocurrido en Ferguson recientemente y la continua agresión israelí al pueblo palestino, sus palabras resuenan hoy más que nunca.\r\n\r\nDavis discute los legados de las luchas de liberación anteriores, desde el movimiento de liberación negra hasta el movimiento contra el *apartheid* de Sudáfrica. Destaca las conexiones y analiza las luchas actuales contra el terrorismo estatal, desde Ferguson a Palestina. Frente a un mundo de injusticia indignante, nos desafía a imaginar y construir el movimiento por la liberación humana. Y, al hacerlo, nos recuerda que «la libertad es una batalla constante».",
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2017-10-06T01:04:09.548947"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-27T17:29:55.802555"
+      }
+    },
+    {
+      "subjects": [
+        "Arab-israeli conflict",
+        "Interviews",
+        "Zionism",
+        "Politics and government",
+        "Foreign relations",
+        "Diplomatic relations",
+        "Arab-Israeli conflict",
+        "Jewish-Arab relations"
+      ],
+      "key": "/works/OL20494296W",
+      "title": "On Palestine",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL31676A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL690129A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL12550903A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        9152496,
+        11274629,
+        13517572,
+        11141149
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-26T01:27:03.605530"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-26T09:57:57.758053"
+      }
+    },
+    {
+      "subtitle": "Gaza's Untold Story",
+      "covers": [
+        6298904,
+        8557757
+      ],
+      "key": "/works/OL14950335W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL2821703A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "title": "My Father Was a Freedom Fighter",
+      "subjects": [
+        "Social aspects",
+        "Social conditions",
+        "Arab-Israeli conflict",
+        "Social life and customs",
+        "Gaza strip",
+        "Palestine, social conditions",
+        "Palestine, social life and customs",
+        "Israel, social conditions",
+        "Israel, social life and customs",
+        "Palestinian Arab Refugees",
+        "Biography",
+        "Arab-israeli conflict"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subject_places": [
+        "Gaza Strip"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-15T16:11:15.315540"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-17T02:32:24.714454"
+      }
+    },
+    {
+      "subjects": [
+        "Middle eastern philology",
+        "Fiction, historical",
+        "Middle east, fiction",
+        "Fiction, historical, general",
+        "Arab-Israeli conflict",
+        "Fiction"
+      ],
+      "key": "/works/OL20801026W",
+      "title": "Minor Detail",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL7935896A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL10820521A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        10097948,
+        12369615,
+        12296710
+      ],
+      "subject_times": [
+        "1949"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "(As described on goodreads) Minor Detail begins during the summer of 1949, one year after the war that the Palestinians mourn as the Nakba – the catastrophe that led to the displacement and expulsion of more than 700,000 people – and the Israelis celebrate as the War of Independence. Israeli soldiers capture and rape a young Palestinian woman, and kill and bury her in the sand. Many years later, a woman in Ramallah becomes fascinated to the point of obsession with this ‘minor detail’ of history. A haunting meditation on war, violence and memory, Minor Detail cuts to the heart of the Palestinian experience of dispossession, life under occupation, and the persistent difficulty of piecing together a narrative in the face of ongoing erasure and disempowerment."
+      },
+      "subject_places": [
+        "Palestine",
+        "Ramallah"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-30T01:33:44.403931"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-15T01:56:50.926444"
+      }
+    },
+    {
+      "title": "Palestinian walks",
+      "covers": [
+        5427624
+      ],
+      "subject_places": [
+        "Gaza Strip",
+        "West Bank"
+      ],
+      "first_publish_date": "2007",
+      "key": "/works/OL2625713W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL382546A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Arab-Israeli conflict",
+        "Description and travel",
+        "History",
+        "West bank, history",
+        "Gaza strip, history",
+        "Arab-israeli conflict",
+        "Palestine, description and travel",
+        "Middle east, description and travel"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T00:07:04.424746"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-04T20:34:33.452460"
+      }
+    },
+    {
+      "first_publish_date": "2008",
+      "title": "Disappearing Palestine",
+      "covers": [
+        9291290
+      ],
+      "lc_classifications": [
+        "DS119.76 .C675 2008"
+      ],
+      "key": "/works/OL12724816W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL5699820A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Politics and government",
+        "Palestijnen",
+        "Onteigening",
+        "Arab-Israeli conflict",
+        "Palestinafrågan",
+        "Jewish-Arab relations",
+        "Siedlungspolitik",
+        "Onderdrukking",
+        "History",
+        "Israel, politics and government",
+        "Human rights",
+        "Zionism",
+        "Israelis",
+        "Colonization",
+        "Land settlement",
+        "Government policy",
+        "Palestinian Arabs"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-11T07:38:06.529151"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-28T01:18:23.059679"
+      }
+    },
+    {
+      "title": "Being Palestinian",
+      "subjects": [
+        "National characteristics",
+        "Exiles",
+        "Palestine, history",
+        "National characteristics, asian",
+        "Palestinian National characteristics",
+        "HISTORY",
+        "General",
+        "Palestinian Arabs",
+        "Biography"
+      ],
+      "key": "/works/OL21018926W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2491639A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        12615441
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-02T04:47:44.530932"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-20T09:15:00.509961"
+      }
+    },
+    {
+      "title": "Footnotes in Gaza",
+      "covers": [
+        9347628
+      ],
+      "subject_places": [
+        "Egypt",
+        "Rafaḥ",
+        "Gaza Strip",
+        "Khān Yūnus"
+      ],
+      "subjects": [
+        "Massacres",
+        "Interviews",
+        "Palestinian Personal narratives",
+        "Violence",
+        "Arab-Israeli conflict",
+        "History",
+        "Comic books, strips",
+        "Comics & graphic novels, general",
+        "Fiction, historical",
+        "Egypt, fiction",
+        "Arab-israeli conflict",
+        "Egypt, history, intervention, 1956",
+        "New York Times reviewed",
+        "Gaza strip, history",
+        "Conflit israélo-arabe",
+        "Bandes dessinées",
+        "Histoire",
+        "Entretiens",
+        "Palestinian Arab Personal narratives",
+        "Sinai Campaign, 1956",
+        "Intervention in Egypt (1956) fast (OCoLC)fst01353410"
+      ],
+      "key": "/works/OL15499148W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL1447711A"
+          }
+        }
+      ],
+      "subject_times": [
+        "Intervention, 1956",
+        "20th century",
+        "1948-1967"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "links": [
+        {
+          "url": "http://www.nytimes.com/2009/12/27/books/review/Cockburn-t.html",
+          "title": "New York Times review",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-11-23T23:58:00.086775"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T13:02:36.678400"
+      }
+    },
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "One of the Arab world's greatest poets uses the 1982 Israeli invasion of Lebanon and the shelling of Beirut as the setting for this sequence of prose poems. Mahmoud Darwish vividly recreates the sights and sounds of a city under terrible siege. As fighter jets scream overhead, he explores the war-ravaged streets of Beirut on August 6th (Hiroshima Day).\r\n\r\nMemory for Forgetfulness (original Arabic title: ذاكرة للنسيان) is an extended reflection on the invasion and its political and historical dimensions. It is also a journey into personal and collective memory. What is the meaning of exile? What is the role of the writer in time of war? What is the relationship of writing (memory) to history (forgetfulness)? In raising these questions, Darwish implicitly connects writing, homeland, meaning, and resistance in an ironic, condensed work that combines wit with rage."
+      },
+      "title": "Memory for Forgetfulness",
+      "covers": [
+        325329
+      ],
+      "subject_places": [
+        "Lebanon",
+        "Israel",
+        "Palestine"
+      ],
+      "subjects": [
+        "Palestinians",
+        "Refugees",
+        "1982 Lebanon War",
+        "Israel",
+        "Lebanon",
+        "War crimes",
+        "Genocide",
+        "Atrocities against refugees",
+        "Memoirs",
+        "Lebanon, history, israeli intervention, 1982-1984",
+        "Beirut (lebanon)"
+      ],
+      "subject_people": [
+        "Palestinians",
+        "refugees",
+        "Lebanese",
+        "Israelis"
+      ],
+      "key": "/works/OL8303278W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2758657A"
+          }
+        }
+      ],
+      "subject_times": [
+        "1982"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T22:37:04.510173"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T11:07:18.455868"
+      }
+    },
+    {
+      "covers": [
+        8051512
+      ],
+      "key": "/works/OL8526455W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2853122A"
+          }
+        }
+      ],
+      "title": "My happiness bears no relation to happiness",
+      "subjects": [
+        "Biography",
+        "Palestinian Arab Poets",
+        "Poets, biography",
+        "Authors, arab",
+        "Palestinian arabs",
+        "New York Times reviewed"
+      ],
+      "subject_people": [
+        "ʻAlī, Ṭāhā Muḥammad"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "links": [
+        {
+          "url": "http://www.nytimes.com/2009/05/06/books/06garn.html",
+          "title": "New York Times review",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T22:54:36.232584"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-06T23:17:39.319743"
+      }
+    },
+    {
+      "subtitle": "Palestinian lives",
+      "title": "After the last sky",
+      "covers": [
+        7877615,
+        4151241
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Caught in a meager, anonymous space outside a drab Arab city, outside a refugee camp, outside the crushing time of one disaster after another, a wedding party stands, surprised, sad, slightly uncomfortable."
+      },
+      "first_publish_date": "1986",
+      "key": "/works/OL27401W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL26322A"
+          }
+        }
+      ],
+      "excerpts": [
+        {
+          "excerpt": "Caught in a meager, anonymous space outside a drab Arab city, outside a refugee camp, outside the crushing time of one disaster after another, a wedding party stands, surprised, sad, slightly uncomfortable."
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Palestinian Arabs",
+        "Jewish-Arab relations",
+        "Pictorial works",
+        "Social conditions",
+        "Palestinian arabs",
+        "Journalism, pictorial",
+        "Jewish-arab relations",
+        "New York Times reviewed"
+      ],
+      "links": [
+        {
+          "url": "http://www.nytimes.com/1986/11/09/books/acts-of-continuance.html",
+          "title": "New York Times review",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T02:46:28.838662"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-06T18:13:09.727638"
+      }
+    },
+    {
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-07-27T14:47:57.944184"
+      },
+      "latest_revision": 1,
+      "key": "/works/OL20963126W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL7886967A"
+          }
+        }
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-07-27T14:47:57.944184"
+      },
+      "title": "The crusades through Arab eyes",
+      "subject_places": [
+        "Islamic Empire"
+      ],
+      "subjects": [
+        "Crusades",
+        "History"
+      ],
+      "subject_times": [
+        "750-1258"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "revision": 1
+    },
+    {
+      "title": "Lemon Tree",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-10T23:28:28.667328"
+      },
+      "covers": [
+        803126
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-28T20:49:28.150416"
+      },
+      "latest_revision": 4,
+      "key": "/works/OL8884487W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL3056542A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "revision": 4
+    },
+    {
+      "first_publish_date": "2005",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-02-28T14:41:53.977037"
+      },
+      "title": "Gate of the sun",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-09T23:27:59.377042"
+      },
+      "covers": [
+        742097
+      ],
+      "lc_classifications": [
+        "PJ7842.H823 B3313 2005"
+      ],
+      "latest_revision": 7,
+      "key": "/works/OL2334008W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2645309A"
+          }
+        }
+      ],
+      "dewey_number": [
+        "892.7/36"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Beirut (Lebanon)",
+        "Partition of Palestine (1947) fast (OCoLC)fst01353948",
+        "Palestinian Arabs",
+        "History",
+        "Refugees",
+        "Arab-Israeli conflict",
+        "Fiction"
+      ],
+      "revision": 7
+    },
+    {
+      "title": "Mural",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2012-05-20T13:06:43.057659"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-05-20T13:06:43.057659"
+      },
+      "latest_revision": 1,
+      "key": "/works/OL16640951W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2926003A"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "revision": 1
+    }
+  ],
+  "authors": []
+}
