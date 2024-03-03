@@ -1,8 +1,5 @@
 {
   "books": [
-  {
-  "editions": [],
-  "works": [
     {
       "subjects": [
         "Arab-Israeli conflict",
@@ -1182,8 +1179,5 @@
       },
       "revision": 1
     }
-  ],
-  "authors": []
-}
-    ]
+  ]
 }
